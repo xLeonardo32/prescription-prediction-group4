@@ -19,8 +19,8 @@
                 <td>202114657</td>
             </tr>
             <tr>
-                <td style="text-align:start;"></td>
-                <td></td>
+                <td style="text-align:start;">Castillo Olivera, Trilce Trissty Deyannira</td>
+                <td>202218225</td>
             </tr>
             <tr>
                 <td style="text-align:start;"></td>
