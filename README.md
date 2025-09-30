@@ -23,12 +23,12 @@
                 <td>202218225</td>
             </tr>
             <tr>
-                <td style="text-align:start;"></td>
-                <td></td>
+                <td style="text-align:start;">Aquino Cruz, Leonardo José</td>
+                <td>20201B949</td>
             </tr>
             <tr>
-                <td style="text-align:start;"></td>
-                <td></td>
+                <td style="text-align:start;">Burga Loarte, Anaely Zarely</td>
+                <td>202118264</td>
         </table>
     </div>
     <p style="text-align: center">Septiembre 2025</p>
@@ -67,10 +67,10 @@ En esta sección se documenta la colaboración del equipo en la elaboración del
 
 | Roles asignados                                                                      | Nombres y apellidos              | Código de estudiante | Carrera                | Conocimientos técnicos y habilidades                                                                                                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------|----------------------------------|----------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                      |
-|                                                          | 
-|                                           |
-| Data Engineer       | Carlos Andres Rojas Ccama        | 202114657            | Ingeniería de Software | Durante mi formación, he desarrollado habilidades en diversos lenguajes de programación como C++, Python así como experiencia en desarrollo web con Angular para el frontend y Spring Boot para el backend                                                                                                                          |
+| Data Scientist  | Leonardo José Aquino Cruz | 20201B949 | Ingeniería de Software | Manejo de análisis de datos con Python (pandas, matplotlib, seaborn), experiencia en limpieza y visualización de datasets, así como documentación de procesos de análisis.
+| Data Analyst                                                   | Trilce Trissty Deyannira Castillo Olivera | 202218225 | 
+| Data Visualization & Documentation Specialist                                          | Anaely Zarely Burga Loarte | 202118264 | 
+| Data Engineer       | Carlos Andres Rojas Ccama        | 202114657            | Ingeniería de Software | Durante mi formación, he desarrollado habilidades en diversos lenguajes de programación como C++, Python así como experiencia en desarrollo web con Angular para el frontend y Spring Boot para el backend                                                                                              |
 
 ## 1.2. Solution Profile
 
