@@ -72,13 +72,11 @@ En esta sección se documenta la colaboración del equipo en la elaboración del
 | Data Visualization & Documentation Specialist | Anaely Zarely Burga Loarte | 202118264 | 
 | Data Engineer | Carlos Andres Rojas Ccama | 202114657 | Ingeniería de Software | Durante mi formación, he desarrollado habilidades en diversos lenguajes de programación como C++, Python así como experiencia en desarrollo web con Angular para el frontend y Spring Boot para el backend |
 
-## 1.2. Solution Profile
-
-# 2. Tema elegido.
+## 1.2. Tema elegido.
 Predicción de la necesidad de receta médica en medicamentos usando datos farmacéuticos abiertos
-# 3. Antecedentes y problemática
+## 1.3. Antecedentes y problemática
 
-# 4. Dataset y Análisis.
+## 1.4. Dataset y Análisis.
 Nombre: Medicines Dataset (https://www.kaggle.com/datasets/drowsyng/medicines-dataset)
 
 Fuente: Kaggle, recopilado mediante web scraping de la plataforma NetMeds (última actualización febrero 2025).
