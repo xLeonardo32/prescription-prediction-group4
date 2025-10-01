@@ -80,4 +80,5 @@ Predicción de la necesidad de receta médica en medicamentos usando datos farma
 
 # 4. Dataset y Análisis.
 Nombre: Medicines Dataset (https://www.kaggle.com/datasets/drowsyng/medicines-dataset)
+
 Fuente: Kaggle, recopilado mediante web scraping de la plataforma NetMeds (última actualización febrero 2025).
