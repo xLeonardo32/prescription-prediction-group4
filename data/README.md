@@ -1,7 +1,9 @@
 # Carpeta: data
 
 Nombre: Medicines Dataset (https://www.kaggle.com/datasets/drowsyng/medicines-dataset)
+
 Fuente: Kaggle, recopilado mediante web scraping de la plataforma NetMeds (última actualización febrero 2025).
+
 Tamaño: 240.23 MB, con decenas de miles de registros.
 
 ## Contenido
