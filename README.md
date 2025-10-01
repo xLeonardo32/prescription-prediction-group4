@@ -78,8 +78,3 @@ Predicción de la necesidad de receta médica en medicamentos usando datos farma
 El desarrollo de las farmacias digitales y las plataformas de comercio electrónico en el sector de la salud en los años recientes ha estimulado la exigencia de contar con sistemas más eficaces para clasificar medicamentos. En el sector farmacéutico, la importancia de implementar técnicas de análisis de datos y modelos predictivos es resaltada por investigaciones anteriores, porque posibilitan prever patrones de prescripción, optimizar la trazabilidad de los productos y asegurar que las regulaciones sanitarias se cumplan. Estas acciones demuestran que la digitalización del sector puede aprovechar herramientas de inteligencia artificial para mejorar procesos y disminuir los fallos humanos en el manejo de información.
 
 Sin embargo, la dificultad de automatizar la identificación de medicamentos que necesitan receta médica es el problema actual, debido a la amplia variedad de características que los definen, entre las cuales se encuentran su presentación, el costo, el país productor o la enfermedad vinculada. La categorización inadecuada de un medicamento puede provocar el incumplimiento de la ley, afectar la logística de ventas y mermar la confianza del cliente. Por esto, es esencial examinar las soluciones que emplean machine learning, ya que posibilitan prever de forma fiable la necesidad de recetas médicas y favorecen tanto la seguridad y accesibilidad del sistema de distribución farmacéutica como la eficacia operativa.
-
-## 1.4. Dataset y Análisis
-Nombre: Medicines Dataset (https://www.kaggle.com/datasets/drowsyng/medicines-dataset)
-
-Fuente: Kaggle, recopilado mediante web scraping de la plataforma NetMeds (última actualización febrero 2025).
