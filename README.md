@@ -1,8 +1,8 @@
 <body>
     <div style="text-align: center; font-weight: bolder">
-        <p>Universidad Peruana de Ciencias Aplicadas - Ingeniería de Software - 7 Ciclo</p>
+        <p>Universidad Peruana de Ciencias Aplicadas - Ingeniería de Software - 7° Ciclo</p>
         <img src="assets/0.cover/logo-upc.png" alt="logo of UPC"/>
-        <p>1ACC0240 - Metodologia para Data Science</p>
+        <p>1ACC0240 - Metodología para Data Science</p>
         <p>Sección - 14083</p>
         <p>Docente: Victoria Alejandra Ubaldo Gamarra</p>   
         <p>Informe de Trabajo Final - TB1<p>
