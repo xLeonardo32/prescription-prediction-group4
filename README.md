@@ -53,7 +53,7 @@ En esta sección se documenta la colaboración del equipo en la elaboración del
 
 <div style="page-break-before: always"></div>
 
-# Contenido
+# 1. Contenido
 
 <!-- TOC -->
 * [Registro de Versiones del Informe](#registro-de-versiones-del-informe)
@@ -63,7 +63,7 @@ En esta sección se documenta la colaboración del equipo en la elaboración del
 
 
 
-### 1.1.2. Perfiles de integrantes del equipo
+## 1.1. Perfiles de integrantes del equipo
 
 | Roles asignados                                                                      | Nombres y apellidos              | Código de estudiante | Carrera                | Conocimientos técnicos y habilidades                                                                                                                                                                                                                                                                                                |
 |---------------------------------------------------------------------------------------------|----------------------------------|----------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -74,8 +74,10 @@ En esta sección se documenta la colaboración del equipo en la elaboración del
 
 ## 1.2. Solution Profile
 
-### 1.2.1. Tema elegido.
+# 2. Tema elegido.
+Predicción de la necesidad de receta médica en medicamentos usando datos farmacéuticos abiertos
+# 3. Antecedentes y problemática
 
-### 1.2.2. Antecedentes y problemática
-
-## 1.3. Fuente del dataset (link de Kaggle).
+# 4. Dataset y Análisis.
+Nombre: Medicines Dataset (https://www.kaggle.com/datasets/drowsyng/medicines-dataset)
+Fuente: Kaggle, recopilado mediante web scraping de la plataforma NetMeds (última actualización febrero 2025).
