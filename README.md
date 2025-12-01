@@ -41,7 +41,8 @@
 
 | Versión | Fecha      | Autor                             | Descripción de modificación |
 |---------|------------|-----------------------------------|-----------------------------|
-
+| 1 | 15/10/2025 | Todos los integrantes | Primera versión del TB1, agregando hasta la fase de Preparación de los datos |
+| 2 | 01/12/2025 | Todos los integrantes | Ultima versión del TF, se agregó la fase de modelado, evaluación e implementación |
 <div style="page-break-before: always"></div>
 
 # Project Report Collaboration Insights
