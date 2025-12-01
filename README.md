@@ -125,3 +125,11 @@ El conjunto de datos presenta múltiples aplicaciones en áreas de investigació
 La información contenida en este dataset resulta de especial interés en un contexto donde la digitalización del sector salud y la transparencia en el acceso a medicamentos son cada vez más prioritarias. Permite a investigadores, instituciones académicas, profesionales de la salud y desarrolladores de software contar con una base confiable para estudios comparativos, proyectos de innovación y aplicaciones en inteligencia artificial orientadas a la salud.
 
 En este sentido, su valor trasciende el ámbito meramente descriptivo, convirtiéndose en un recurso estratégico para el análisis integral de la industria farmacéutica, el comportamiento del mercado y el bienestar de los pacientes.
+
+## Implementación y Despliegue
+
+Como parte de la fase final del proyecto, el modelo entrenado y el preprocesador fueron empaquetados y desplegados en un entorno web para su uso práctico. Esto permite cargar nuevos datos y obtener predicciones sobre la necesidad de receta médica utilizando el modelo Random Forest seleccionado.
+
+**Aplicación desplegada:** [Despliegue](https://replit.com/@trilcecastillo1/Python?v=1)
+
+La aplicación web expone el modelo final, permitiendo realizar predicciones en tiempo real y facilitando su integración en flujos de trabajo externos o sistemas operativos de farmacias digitales.
